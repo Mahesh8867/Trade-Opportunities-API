@@ -9,7 +9,7 @@ This FastAPI service analyzes current news and trends in Indian market sectors t
 - ✅ Analyze sectors like farming, pharmaceuticals, tech, etc.
 - ✅ Returns Markdown report ready to be saved as `.md`
 - ✅ Real-time market news collection
-- ✅ Gemini or OpenAI LLM-based analysis
+- ✅ Gemini based LLM-based analysis
 - ✅ Rate limiting & security controls
 - ✅ API documentation via Swagger
 
